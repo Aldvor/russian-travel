@@ -1,33 +1,4 @@
 .cover {
   width: 100%;
-  min-height: 740px;
   margin: 0 auto;
-  color: #fff;
-  display: grid;
-  grid-template-rows: 397px 1fr;
-}
-
-@media (max-width: 1279px) {
-  .cover {
-    grid-template-rows: 347px 1fr;
-    row-gap: 32px;
-    max-width: 100%;
-    min-height: 640px;
-  }
-}
-
-@media (max-width: 1023px) {
-  .cover {
-    grid-template-rows: 267px 1fr;
-    min-height: 480px;
-  }
-}
-
-@media (max-width: 767px) {
-  .cover {
-    grid-template-rows: 103px 1fr;
-    row-gap: 16px;
-    min-width: 320px;
-    min-height: 200px;
-  }
 }

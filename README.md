@@ -4,4 +4,4 @@
 
 ### На сайте используется технология медиазапросов, для адаптации под различные устройства!
 
-[Ссылка на Github!](https://github.com/Aldvor) 
+[Ссылка на Github!](https://aldvor.github.io/russian-travel/) 

@@ -9,7 +9,6 @@
 @media (max-width: 767px) {
   .header__logo {
     background-image: url(../../../image/__logo-mobile.svg);
-    background-repeat: no-repeat;
     min-width: 144px;
     min-height: 42px;
   }
