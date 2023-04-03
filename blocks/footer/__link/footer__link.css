@@ -7,7 +7,7 @@
 }
 
 .footer__link:hover {
-  text-decoration: underline;
+  opacity: .8;
 }
 
 @media (max-width: 767px) {

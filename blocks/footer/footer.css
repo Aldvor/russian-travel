@@ -24,7 +24,6 @@
   .footer {   
     padding-top: 64px;
     margin-left: 16px;
-    max-width: 186px;
     flex-direction: column;
   }
 }
